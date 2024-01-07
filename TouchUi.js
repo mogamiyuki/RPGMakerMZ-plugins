@@ -1,7 +1,7 @@
 //=============================================================================
 // TouchUi.js
 // ----------------------------------------------------------------------------
-// (C)2024 最上ユキ
+// (C)2024 MogamiYuki
 // This plugin is released under the MIT License.
 // http://opensource.org/licenses/mit-license.php
 // ----------------------------------------------------------------------------
@@ -9,11 +9,12 @@
 // 1.0.0 2024/01/07 初版
 // ----------------------------------------------------------------------------
 // [Twitter]: https://twitter.com/mogamiyuki_noc
+// [GitHub] : https://github.com/mogamiyuki
 //=============================================================================
 
 /*:ja
  * @target MZ
- * @url
+ * @url https://github.com/mogamiyuki/RPGMakerMZ-plugins/blob/main/TouchUi.js
  * @plugindesc タッチUIのON/OFFに対応して上部の余白を削除するプラグイン
  * @author 最上ユキ
  *
